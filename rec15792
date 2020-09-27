@@ -1,0 +1,115 @@
+Project3:
+total 140
+drwxr-xr-x. 3 myid     17 Jul 10 12:36 classes
+drwxr-xr-x. 3 myid   4096 Jul 10 12:38 JavaDoc
+-rw-r--r--. 1 myid   1249 Jul 10 13:36 README.txt
+-rw-r--r--. 1 myid   1249 Jul 10 13:02 README.txt~
+-rw-r--r--. 1 myid   3702 Jul 10 13:31 rec14248
+-rw-r--r--. 1 myid      0 Jul 10 13:36 rec15792
+drwxr-xr-x. 3 myid     17 Jul  9 11:13 src
+-rw-r--r--. 1 myid 124509 Jul 10 13:17 TestPlan.pdf
+
+Project3/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 10 12:36 edu
+
+Project3/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 10 12:36 uga
+
+Project3/classes/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 10 12:36 cs1302
+
+Project3/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  50 Jul 10 12:36 test
+drwxr-xr-x. 2 myid 147 Jul 10 12:36 txtbuff
+
+Project3/classes/edu/uga/cs1302/test:
+total 8
+-rw-r--r--. 1 myid 6474 Jul 10 13:19 EditableTextLineTester.class
+
+Project3/classes/edu/uga/cs1302/txtbuff:
+total 16
+-rw-r--r--. 1 myid  342 Jul 10 13:19 Editable.class
+-rw-r--r--. 1 myid 2299 Jul 10 13:19 EditableTextLine.class
+-rw-r--r--. 1 myid 2114 Jul 10 13:19 TextLine.class
+-rw-r--r--. 1 myid  662 Jul 10 13:19 TextLineIndexOutOfBoundsException.class
+
+Project3/JavaDoc:
+total 108
+-rw-r--r--. 1 myid  1306 Jul 10 13:19 allclasses-frame.html
+-rw-r--r--. 1 myid  1206 Jul 10 13:19 allclasses-noframe.html
+-rw-r--r--. 1 myid  4599 Jul 10 13:19 constant-values.html
+-rw-r--r--. 1 myid  3495 Jul 10 13:19 deprecated-list.html
+drwxr-xr-x. 3 myid    25 Jul 10 12:38 edu
+-rw-r--r--. 1 myid  8213 Jul 10 13:19 help-doc.html
+-rw-r--r--. 1 myid 26502 Jul 10 13:19 index-all.html
+-rw-r--r--. 1 myid  2923 Jul 10 13:19 index.html
+-rw-r--r--. 1 myid   897 Jul 10 13:19 overview-frame.html
+-rw-r--r--. 1 myid  4070 Jul 10 13:19 overview-summary.html
+-rw-r--r--. 1 myid  5345 Jul 10 13:19 overview-tree.html
+-rw-r--r--. 1 myid    43 Jul 10 13:19 package-list
+-rw-r--r--. 1 myid   827 Jul 10 13:19 script.js
+-rw-r--r--. 1 myid  4047 Jul 10 13:19 serialized-form.html
+-rw-r--r--. 1 myid 12842 Jul 10 12:38 stylesheet.css
+
+Project3/JavaDoc/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 10 12:38 uga
+
+Project3/JavaDoc/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 10 12:38 cs1302
+
+Project3/JavaDoc/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 140 Jul 10 12:38 test
+drwxr-xr-x. 2 myid 234 Jul 10 12:38 txtbuff
+
+Project3/JavaDoc/edu/uga/cs1302/test:
+total 40
+-rw-r--r--. 1 myid 20045 Jul 10 13:19 EditableTextLineTester.html
+-rw-r--r--. 1 myid   836 Jul 10 13:19 package-frame.html
+-rw-r--r--. 1 myid  4611 Jul 10 13:19 package-summary.html
+-rw-r--r--. 1 myid  4430 Jul 10 13:19 package-tree.html
+
+Project3/JavaDoc/edu/uga/cs1302/txtbuff:
+total 84
+-rw-r--r--. 1 myid 11094 Jul 10 13:19 Editable.html
+-rw-r--r--. 1 myid 19252 Jul 10 13:19 EditableTextLine.html
+-rw-r--r--. 1 myid  1381 Jul 10 13:19 package-frame.html
+-rw-r--r--. 1 myid  6691 Jul 10 13:19 package-summary.html
+-rw-r--r--. 1 myid  5575 Jul 10 13:19 package-tree.html
+-rw-r--r--. 1 myid 20205 Jul 10 13:19 TextLine.html
+-rw-r--r--. 1 myid 10702 Jul 10 13:19 TextLineIndexOutOfBoundsException.html
+
+Project3/src:
+total 0
+drwxr-xr-x. 3 myid 25 Jul  9 11:09 edu
+
+Project3/src/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul  9 11:09 uga
+
+Project3/src/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul  9 11:10 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  49 Jul 10 12:15 test
+drwxr-xr-x. 2 myid 143 Jul 10 12:14 txtbuff
+
+Project3/src/edu/uga/cs1302/test:
+total 12
+-rw-r--r--. 1 myid 9853 Jul 10 13:12 EditableTextLineTester.java
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 24
+-rw-r--r--. 1 myid 1505 Jul 10 12:57 Editable.java
+-rw-r--r--. 1 myid 5359 Jul 10 12:57 EditableTextLine.java
+-rw-r--r--. 1 myid 1042 Jul 10 12:43 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid 5653 Jul 10 12:57 TextLine.java
+/home/myid/jhn21502/cs1302/Project3:/home/myid/csci-1302a

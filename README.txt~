@@ -1,0 +1,34 @@
+Name: Joseph Nguyen
+Date: 7/10/2020
+
+This is my project 3. This project will have an char 
+array based on a string parameter and you will be able
+to change the array by appending, inserting, and replacing.
+In addition you can also get the toString version of the char
+array, get the length, capacity information of it, and if 
+another String fragment is within the char array and where.
+
+The packages in this project are called edu.uga.cs1302.txtbuff
+and edu.uga.cs1302.test. All Java classes have one of these package 
+declaration at the top of the source file. All of the source files 
+are placed in the directory edu/uga/cs1302/txtbuff or edu/uga/cs1302/test 
+(in the src directory).
+
+
+To compile this project, type:
+
+$ javac -d classes src/edu/uga/cs1302/test/EditableTextLineTester.java src/edu/uga/cs1302/txtbuff/*.java
+
+To execute the unit test of the EditableTextLine class use the following
+(remember to have the necessary jar files for Junit and hamcrest on the CLASSPATH):
+
+$ java org.junit.runner.JUnitCore edu.uga.cs1302.test.EditableTextLineTester
+
+
+
+In order to generate javadoc documents, enter:
+
+  javadoc -d JavaDoc -sourcepath src -subpackages edu
+
+The automatically created documentation will be placed in the
+directory JavaDoc.
